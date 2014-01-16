@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scoreboard It", "Scoreboard It\Scoreboard It.csproj", "{B3750A98-3419-45D5-9189-1C03E21B4D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementation", "Implementation\Implementation.csproj", "{FD802F7B-26AE-400D-B88F-F339F61C2872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3750A98-3419-45D5-9189-1C03E21B4D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3750A98-3419-45D5-9189-1C03E21B4D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3750A98-3419-45D5-9189-1C03E21B4D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3750A98-3419-45D5-9189-1C03E21B4D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD802F7B-26AE-400D-B88F-F339F61C2872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD802F7B-26AE-400D-B88F-F339F61C2872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD802F7B-26AE-400D-B88F-F339F61C2872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD802F7B-26AE-400D-B88F-F339F61C2872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
